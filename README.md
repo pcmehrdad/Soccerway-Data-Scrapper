@@ -4,14 +4,13 @@
 <p>It is scrapping the <b>date,home,away,goals,season,champion,game week,url and goalers</b>.<p>
 <p>The first part is the simple_html_dom.php which can be included by uncommenting this line: 
 //require_once( dirname(FILE) . '/simple_html_dom.php' );</p>
-<p>![Alt text](https://raw.githubusercontent.com/skaramanlis/Soccerway-Data-Scrapper/master/Screenshot_2.png "XML example")</p>
+![Alt text](https://raw.githubusercontent.com/skaramanlis/Soccerway-Data-Scrapper/master/Screenshot_2.png "XML example")
 <h2>Usage</h2>
 <p>At the top of the script there is an array (competitions) with the URL's for scrapping.</p>
 <p>Example of array: 
 'AUS-BUNDESLIGA' => array('name' => 'BUNDESLIGA','region' => 'AUSTRIA','url' => 'national/austria/bundesliga/')</p>
 <p>You can run it through command line.
 Example: php scrap.php </p>
-<p>![Alt text](https://raw.githubusercontent.com/skaramanlis/Soccerway-Data-Scrapper/master/Screenshot_1.png "Running example")</p>
+![Alt text](https://raw.githubusercontent.com/skaramanlis/Soccerway-Data-Scrapper/master/Screenshot_1.png "Running example")
 <p></p><p></p>
 <p><b>By Karamanlis Simos</b></p>
-
