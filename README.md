@@ -1,7 +1,7 @@
 # Soccerway data web scrapper
 <h2>Description</h2>
 <p>This script can be run through command line, it will scrap data from soccreway.com and will generate an XML file with all the data and the file will get the data as name.</p>
-<p>It is scrapping the <b>date,home,away,goals,season,champion,game week and url</b> and goalers.<p>
+<p>It is scrapping the <b>date,home,away,goals,season,champion,game week,url and goalers</b>.<p>
 <p>The first part is the simple_html_dom.php which can be included by uncommenting this line: 
 //require_once( dirname(FILE) . '/simple_html_dom.php' );</p>
 <h2>Usage</h2>
