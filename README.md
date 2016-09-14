@@ -10,5 +10,5 @@
 'AUS-BUNDESLIGA' => array('name' => 'BUNDESLIGA','region' => 'AUSTRIA','url' => 'national/austria/bundesliga/')</p>
 <p>You can run it through command line.
 Example: php scrap.php </p>
-<p></p>
-<p>Karamanlis Simos</p>
+<p></p><p></p>
+<p><b>By Karamanlis Simos</b></p>
