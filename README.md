@@ -1,4 +1,4 @@
-# SSoccerway data web scrapper
+# Soccerway data web scrapper
 <h2>Description</h2>
 <p>This script can be run through command line, it will scrap data from soccreway.com and will generate an XML file with all the data and the file will get the data as name.</p>
 <p>It is scrapping the date,home,away,goals and goalers.<p>
