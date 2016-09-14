@@ -12,6 +12,5 @@
 'AUS-BUNDESLIGA' => array('name' => 'BUNDESLIGA','region' => 'AUSTRIA','url' => 'national/austria/bundesliga/')</p>
 <p>You can run it through command line.
 Example: php scrap.php </p>
-![Alt text](https://raw.githubusercontent.com/skaramanlis/Soccerway-Data-Scrapper/master/Screenshot_1.png "Running example")
 <p></p><p></p>
 <p><b>By Karamanlis Simos</b></p>
